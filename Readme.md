@@ -234,6 +234,3 @@ The `evaluate_rag.py` script is set up to use the `ragas` library for RAG evalua
 * **More LLM Options**: Allow users to select different LLMs (e.g., other Groq models, or integrate with other providers).
 * **User Feedback**: Implement a mechanism for users to provide feedback on the relevance of retrieved quotes or explanations.
 
-## License
-
-[Specify your project's license here, e.g., MIT License, Apache 2.0, etc.]
