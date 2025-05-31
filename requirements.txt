@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pandas
+torch
+groq
+python-dotenv
+nest_asyncio
+transformers
